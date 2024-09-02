@@ -1,0 +1,140 @@
+{
+  "arcs": [
+    {
+      "From": "Pinerolo",
+      "To": "Orbassano",
+      "Day": "",
+      "Time": "08:00:00",
+      "Distance": "24.3 km",
+      "Duration": "24 mins"
+    },
+    {
+      "From": "Orbassano",
+      "To": "Nichelino",
+      "Day": "",
+      "Time": "08:00:00",
+      "Distance": "14 km",
+      "Duration": "17 mins"
+    },
+    {
+      "From": "Orbassano",
+      "To": "Moncalieri",
+      "Day": "",
+      "Time": "08:00:00",
+      "Distance": "12.8 km",
+      "Duration": "25 mins"
+    },
+    {
+      "From": "Orbassano",
+      "To": "Rivoli",
+      "Day": "",
+      "Time": "08:00:00",
+      "Distance": "8.6 km",
+      "Duration": "16 mins"
+    },
+    {
+      "From": "Orbassano",
+      "To": "Torino",
+      "Day": "",
+      "Time": "08:00:00",
+      "Distance": "14.8 km",
+      "Duration": "33 mins"
+    },
+    {
+      "From": "Torino",
+      "To": "Grugliasco",
+      "Day": "",
+      "Time": "08:00:00",
+      "Distance": "6.3 km",
+      "Duration": "18 mins"
+    },
+    {
+      "From": "Torino",
+      "To": "Venaria",
+      "Day": "",
+      "Time": "08:00:00",
+      "Distance": "12.4 km",
+      "Duration": "22 mins"
+    },
+    {
+      "From": "Torino",
+      "To": "Settimo",
+      "Day": "",
+      "Time": "08:00:00",
+      "Distance": "16.4 km",
+      "Duration": "30 mins"
+    },
+    {
+      "From": "Torino",
+      "To": "Chieri",
+      "Day": "",
+      "Time": "08:00:00",
+      "Distance": "18.9 km",
+      "Duration": "41 mins"
+    },
+    {
+      "From": "Torino",
+      "To": "Moncalieri",
+      "Day": "",
+      "Time": "08:00:00",
+      "Distance": "9.7 km",
+      "Duration": "29 mins"
+    },
+    {
+      "From": "Moncalieri",
+      "To": "Chieri",
+      "Day": "",
+      "Time": "08:00:00",
+      "Distance": "18.8 km",
+      "Duration": "24 mins"
+    },
+    {
+      "From": "Moncalieri",
+      "To": "Nichelino",
+      "Day": "",
+      "Time": "08:00:00",
+      "Distance": "5.9 km",
+      "Duration": "10 mins"
+    },
+    {
+      "From": "Grugliasco",
+      "To": "Collegno",
+      "Day": "",
+      "Time": "08:00:00",
+      "Distance": "3.1 km",
+      "Duration": "8 mins"
+    },
+    {
+      "From": "Grugliasco",
+      "To": "Rivoli",
+      "Day": "",
+      "Time": "08:00:00",
+      "Distance": "10.1 km",
+      "Duration": "21 mins"
+    },
+    {
+      "From": "Rivoli",
+      "To": "Collegno",
+      "Day": "",
+      "Time": "08:00:00",
+      "Distance": "5.2 km",
+      "Duration": "14 mins"
+    },
+    {
+      "From": "Venaria",
+      "To": "Collegno",
+      "Day": "",
+      "Time": "08:00:00",
+      "Distance": "11.8 km",
+      "Duration": "18 mins"
+    },
+    {
+      "From": "Venaria",
+      "To": "Settimo",
+      "Day": "",
+      "Time": "08:00:00",
+      "Distance": "15 km",
+      "Duration": "22 mins"
+    }
+  ]
+}
